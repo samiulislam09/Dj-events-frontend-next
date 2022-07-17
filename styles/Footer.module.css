@@ -1,0 +1,10 @@
+.footer {
+    margin: 100px 0 40px;
+    text-align: center;
+    padding: 15px 0;
+    background: rgb(164, 164, 164);
+}
+
+.footer p {
+    margin: 5px 0;
+}
