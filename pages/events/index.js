@@ -2,7 +2,7 @@ import Layout from "../../components/Layout";
 
 function index() {
     return (
-        <Layout></Layout>
+        <Layout>hello events</Layout>
     );
 }
 
